@@ -6,7 +6,7 @@
 - spreadsheet (gem)
 - ffmpeg
 - sox
-- Mac speach voices: Kyoko (ja), Samantha (en), Tom (en)
+- Mac speach voices: **Kyoko (ja), Samantha (en), Tom (en)**
 
 ## Credit
 
